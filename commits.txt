@@ -1,0 +1,35 @@
+commit e617f72f40a1980ffa765755e6d7000fd014361a
+Author: Álvaro Lupa <alvaro@pynapple.cl>
+Date:   Thu Feb 12 17:44:20 2015 -0300
+
+    Agregue el portafolio
+
+commit f47417db471d6f572fc45d2ef60de633e621f95c
+Author: Álvaro Lupa <alvaro@pynapple.cl>
+Date:   Thu Feb 12 17:41:37 2015 -0300
+
+    Agregue la discripcion
+
+commit f71680cb558bf16b4003825aee0689abd0f599ec
+Author: Álvaro Lupa <alvaro@pynapple.cl>
+Date:   Thu Feb 12 17:10:47 2015 -0300
+
+    Agregue redes sociales
+
+commit 1ba274fb8c2c7fa2ff5d691f18833b168b051579
+Author: Álvaro Lupa <alvaro@pynapple.cl>
+Date:   Thu Feb 12 17:02:46 2015 -0300
+
+    Perfil web escrito
+
+commit f5fb90e9c1dc6e2805d6dbb708589d713110c21a
+Author: Álvaro Lupa <alvaro@pynapple.cl>
+Date:   Thu Feb 12 16:56:38 2015 -0300
+
+    Subi foto de perfil y mi nombre
+
+commit 281de305ad2d633c570232478b726570b98d2d4d
+Author: Álvaro Lupa <alvaro@pynapple.cl>
+Date:   Thu Feb 12 16:51:18 2015 -0300
+
+    Estos son los archivos base de mi portafolio
